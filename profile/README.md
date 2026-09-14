@@ -15,15 +15,21 @@ Sibling org: [Rethunk-Tech](https://github.com/Rethunk-Tech) (CLIs, hooks, share
 | [bakeoff](https://github.com/Rethunk-AI/bakeoff) | Local LLM N-vs-N benchmark harness (llama.cpp / llama-swap; quality, latency, cost) |
 | [fedbuild](https://github.com/Rethunk-AI/fedbuild) | Reproducible, signed Fedora image for AI coding agents (template) |
 | [discord-docs](https://github.com/Rethunk-AI/discord-docs) | Community docs for the AI Maxxing Discord |
+| [bakeoff-results](https://github.com/Rethunk-AI/bakeoff-results) | Approved bakeoff result bundles from `bakeoff` |
 
-## Archived
+## Prior art
 
-Earlier MCP servers and harness bridges (`rethunk-github-mcp`, `buckler`,
-`clodbridge`, `rethunk-mcp-*`, and related) are archived. Treat them as prior
-art unless a README in-tree says otherwise — Active above is current.
+Earlier MCP servers and harness bridges are **archived on GitHub** and kept for
+history — not entry points. Prefer Active above.
 
-## Note on results
-
-`bakeoff-results` holds approved bakeoff bundles. Fix its visibility or
-description before featuring it here (it currently reads as private staging
-while public).
+| Repo | What it was |
+|------|-------------|
+| [buckler](https://github.com/Rethunk-AI/buckler) | Agent gatehouse / harness hooks |
+| [clodbridge](https://github.com/Rethunk-AI/clodbridge) | Cursor `.cursor/` → Claude Code bridge |
+| [rethunk-github-mcp](https://github.com/Rethunk-AI/rethunk-github-mcp) | Rollup GitHub MCP tools |
+| [rethunk-mcp-ts](https://github.com/Rethunk-AI/rethunk-mcp-ts) | TypeScript MCP server |
+| [rethunk-mcp-go](https://github.com/Rethunk-AI/rethunk-mcp-go) | Go analysis MCP server |
+| [mcp-template-node](https://github.com/Rethunk-AI/mcp-template-node) | Node/TypeScript MCP template |
+| [mcp-multi-root-git](https://github.com/Rethunk-AI/mcp-multi-root-git) | Multi-root git MCP tools |
+| [claude-tmux](https://github.com/Rethunk-AI/claude-tmux) | Claude Code tmux hooks |
+| [kui](https://github.com/Rethunk-AI/kui) | Web KVM UI for libvirt VMs |
