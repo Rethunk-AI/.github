@@ -13,7 +13,7 @@ Sibling org: [Rethunk-Tech](https://github.com/Rethunk-Tech) (CLIs, hooks, share
 | Repo | What it is |
 |------|------------|
 | [bakeoff](https://github.com/Rethunk-AI/bakeoff) | Local LLM N-vs-N benchmark harness (llama.cpp / llama-swap; quality, latency, cost) |
-| [fedbuild](https://github.com/Rethunk-AI/fedbuild) | Reproducible, signed Fedora image for AI coding agents (template) |
+| [fedbuild](https://github.com/Rethunk-Tech/fedbuild) | Reproducible, signed Fedora image for AI coding agents (template) |
 | [discord-docs](https://github.com/Rethunk-AI/discord-docs) | Community docs for the AI Maxxing Discord |
 | [bakeoff-results](https://github.com/Rethunk-AI/bakeoff-results) | Approved bakeoff result bundles from `bakeoff` |
 
