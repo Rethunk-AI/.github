@@ -4,14 +4,15 @@ Public research and scaffolding around **Bastion** and **Citadel** — governed
 agent operations and an AI-native git forge for teams that need to answer what
 ran, under whose authority, and prove it.
 
-Sibling org: [Rethunk-Tech](https://github.com/Rethunk-Tech) (CLIs, hooks, shared CI).
+Sibling orgs: [Rethunk-Tech](https://github.com/Rethunk-Tech) (CLIs, hooks, shared CI) ·
+[Citadel-Inc](https://github.com/Citadel-Inc) ([citadel-cli](https://github.com/Citadel-Inc/citadel-cli)).
 
-**Site:** [rethunk.ai](https://rethunk.ai/) · **OSS:** [oss@rethunk.ai](mailto:oss@rethunk.ai)
+**Site:** [we.rethunk.tech](https://we.rethunk.tech/) · **OSS:** [oss@rethunk.ai](mailto:oss@rethunk.ai)
 
 ## Active
 
 | Repo | What it is |
-|------|------------|
+| ------ | ------------ |
 | [bakeoff](https://github.com/Rethunk-AI/bakeoff) | Local LLM N-vs-N benchmark harness (llama.cpp / llama-swap; quality, latency, cost) |
 | [fedbuild](https://github.com/Rethunk-Tech/fedbuild) | Reproducible, signed Fedora image for AI coding agents (template) |
 | [discord-docs](https://github.com/Rethunk-AI/discord-docs) | Community docs for the AI Maxxing Discord |
@@ -23,7 +24,7 @@ Earlier MCP servers and harness bridges are **archived on GitHub** and kept for
 history — not entry points. Prefer Active above.
 
 | Repo | What it was |
-|------|-------------|
+| ------ | ------------- |
 | [buckler](https://github.com/Rethunk-AI/buckler) | Agent gatehouse / harness hooks |
 | [clodbridge](https://github.com/Rethunk-AI/clodbridge) | Cursor `.cursor/` → Claude Code bridge |
 | [rethunk-github-mcp](https://github.com/Rethunk-AI/rethunk-github-mcp) | Rollup GitHub MCP tools |
